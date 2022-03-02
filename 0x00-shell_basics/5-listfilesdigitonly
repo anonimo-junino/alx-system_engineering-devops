@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls * -al -n) cd /"
+echo "$(ls * -aln [[:digit:]]*) "
