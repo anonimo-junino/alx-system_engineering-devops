@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -aln [[:digit:]]*) "
+echo "$(ls -aln [.[:digit:]]*) "
