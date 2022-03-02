@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -l -a *) cd /"
+echo "$(ls * -al -n) cd /"
