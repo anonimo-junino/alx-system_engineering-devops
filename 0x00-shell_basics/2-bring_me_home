@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '/root'
+dirname -z source ./2-bring_me_home
