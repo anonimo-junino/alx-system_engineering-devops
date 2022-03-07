@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Reverse" | rev >> 21-reverse
-esreveR
+echo "Reverse" | rev > 21-reverse
