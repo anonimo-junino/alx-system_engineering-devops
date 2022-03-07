@@ -1,2 +1,2 @@
 #!bin/bash
-read x | uniq
+cat << uniq
