@@ -1,2 +1,2 @@
 #!bin/bash
-find . −exec read ... | uniq
+sort | uniq -u
